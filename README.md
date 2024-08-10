@@ -3,13 +3,10 @@
 
 ![I am with Batman](https://cdn.basedlabs.ai/2adb565b-1df9-4a7f-bdd1-1af3d99ac5ac.png)
 
-<p>&nbsp;<img align="left" src="https://camo.githubusercontent.com/6e9cf8775148517f256dad4ad1582190770d6414c63ce5c2ae5891e97d5c8558/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d78767a6326636f756e745f707269766174653d74727565267468656d653d67727576626f78" alt="drat" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drat" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/6e9cf8775148517f256dad4ad1582190770d6414c63ce5c2ae5891e97d5c8558/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d78767a6326636f756e745f707269766174653d74727565267468656d653d67727576626f78" alt="drat" /></p>
 
-
-
-- 🔭 I’m currently working on **Intelexa Mata Dewa**
-
+- 🔭 I’m currently working on **Intellexa Mata Dewa**
 - 🌱 I’m currently learning **Meditation**
 
 
