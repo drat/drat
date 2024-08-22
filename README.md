@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm drat</h1>
-<h3 align="center">A passionate man from BatCave</h3>
+<h3 align="center">"It's not who I am underneath, but what I do that defines me..." -- A passionate man from BatCave</h3>
 
 ![I am with Batman](https://live.staticflickr.com/65535/53939535720_d58bfd76f1_h.jpg)
 
