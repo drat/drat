@@ -67,7 +67,10 @@
 
 I absolutely love Batman! 🦸‍♂️ He has been my idol since childhood and still is. To me, he is the best true hacker in the world. I also enjoy riding Harley Davidson motorcycles. 🏍️ I own 7 of them as part of my personal collection, which I always take good care of and cherish. 💖
 
+I also have a great admiration for Ironman! 🤖 Ever since I met Tony Stark on the big screen at my favorite cinema in Indonesia, he has become one of my favorites. 🎬🇮🇩
+
 My days are filled with joy alongside Batman, my Harley Davidsons, and my MacBook Pro. 🎉 I hope all of you can also enjoy your beautiful days as well! 🌟😊
 
-Best regards,
+Best wishes for your success! 💪  
 **Deddy Ratnanto**
+
