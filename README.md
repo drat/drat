@@ -6,7 +6,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drat" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&theme=dracula" alt="drat" /></p>
 
-- 🔭 I’m currently working on **Intellexa Mata Dewa**
+![snake games](https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg)
+
+- 🔭 I’m currently working on **Batman Corps Indonesia, Pusat Intelijen Data Indonesia, Mata Dewa, Istana Kode, AI Indonesia Jaya**
 - 🌱 I’m currently learning **Meditation**
 
 
