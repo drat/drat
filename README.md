@@ -55,8 +55,11 @@
 
 # My Gallery of Life
 
-| My Secret job |My Secret job | My Secret job |
+| My Activities |My Activities | My Activities |
 |---|---|---|
+| My Daily Wokout | My Daily Wokout | My Daily Wokout |
+| ![WorkOut](https://live.staticflickr.com/65535/54148032243_909a1ebf62_z.jpg) | ![WorkOut](https://live.staticflickr.com/65535/54148206630_b580a10e88_z.jpg) | ![WorkOut](https://live.staticflickr.com/65535/54146893072_06f8738f83_z.jpg) |
+| My Secret job |My Secret job | My Secret job |
 | ![I am be a Batman](https://live.staticflickr.com/65535/53939099921_32525d6ce4_b.jpg) | ![I am be a Batman](https://live.staticflickr.com/65535/53939350193_5ff4ee37e5_z.jpg) | ![I am be a Batman](https://live.staticflickr.com/65535/53939551390_ac9dea9c51_z.jpg) |
 | My Secret job | My Harley's Style | My Harley's Style |
 | ![I am be a Batman](https://live.staticflickr.com/65535/53939094736_e82f6e1223_z.jpg) | ![I am with Harley Davidson](https://live.staticflickr.com/65535/53914092183_8893787e21_z.jpg) | ![I am with Harley Davidson](https://live.staticflickr.com/65535/53913845906_d9a743f030_z.jpg) |
