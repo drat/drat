@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm drat</h1>
 <h3 align="center">"It's not who I am underneath, but what I do that defines me..." -- A passionate man from BatCave</h3>
 
-![I am with Batman](https://github.com/user-attachments/assets/3ce31e56-95e2-447f-8920-9a5e6c8ceff8)
+![I am with Batman](https://github.com/user-attachments/assets/f4fa62cc-6207-4090-a20c-dc4957a2d825)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drat&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drat" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&theme=dracula" alt="drat" /></p>
