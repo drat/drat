@@ -63,6 +63,12 @@
 | ![Workout 1](https://live.staticflickr.com/65535/54148032243_909a1ebf62_z.jpg) | ![Workout 2](https://live.staticflickr.com/65535/54148206630_b580a10e88_z.jpg) | ![Workout 3](https://live.staticflickr.com/65535/54146893072_06f8738f83_z.jpg) |
 
 ---
+## 🦇 My Community Act
+
+| | | |
+|---|---|---|
+| **Flat Earth Symposium** | **Flat Earth Presentation** | **Flat Earth Community Founder** |
+| ![FEC 1](https://github.com/user-attachments/assets/63eabf0f-d8e2-4cd1-8185-891db598a38b) | ![FEC 2](https://github.com/user-attachments/assets/fe612d5e-c54c-4075-a44c-1c0af2317027) | ![FEC 3](https://github.com/user-attachments/assets/2159115a-3d41-4ee9-b8cc-dc9643f7c897) |
 
 ## 🦇 My Secret Job
 
